@@ -1,0 +1,1 @@
+{"promedio":3,"total_calificaciones":1,"calificaciones":{"2e959727e93aa208":3},"resenas":[{"device_id":"2e959727e93aa208","nombre":"Da error al seleccionar t","estrellas":3,"comentario":"onClick: com.luajava.LuaException: Runtime error. ?:-1: attempt to call a nil value (field 'toString')\nstack traceback:\n\t?: in upvalue '?'\n\t?: in function <?:1682>","fecha":1788659796}]}
